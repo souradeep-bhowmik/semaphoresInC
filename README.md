@@ -1,5 +1,5 @@
 # semaphoresInC
-__Date of Project:__ November 2018
+__Date of Project:__ September 2018
 
 This project was undertaken as an assignment for Advanced Operating Systems course for my Masters degree where I have written two programs for achieving synchronization among __threads__ and __processes__.
 
